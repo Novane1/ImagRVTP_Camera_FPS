@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\STB">
+      <UniqueIdentifier>{d1de2a09-c2bf-4191-a1fd-e9232387034b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Documents\Camera\main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\Camera\vector3d.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug\stb-master\stb_vorbis.c">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\Camera\vector3d.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_herringbone_wang_tile.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_hexwave.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_image.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_image_resize2.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_image_write.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_include.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_leakcheck.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_perlin.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_rect_pack.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_sprintf.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_textedit.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_tilemap_editor.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_truetype.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_voxel_render.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_c_lexer.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_connected_components.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_divide.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_ds.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_dxt.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug\stb-master\stb_easy_font.h">
+      <Filter>Fichiers d%27en-tête\STB</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
